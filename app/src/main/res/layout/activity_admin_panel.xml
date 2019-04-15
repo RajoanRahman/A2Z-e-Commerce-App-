@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AdminAddNewProductActivity">
+
+    <ImageView
+        android:src="@drawable/select_image"
+        android:id="@+id/select_product_image"
+        android:scaleType="center"
+        android:layout_margin="35dp"
+        android:layout_width="match_parent"
+        android:layout_height="230dp" />
+
+    <EditText
+        android:paddingLeft="10dp"
+        android:hint="Product Name...."
+        android:id="@+id/product_name"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/inside_deisgn"
+        android:layout_width="match_parent"
+        android:layout_height="60dp" />
+    <EditText
+        android:layout_marginTop="15dp"
+        android:paddingLeft="10dp"
+        android:hint="Product Description...."
+        android:id="@+id/product_description"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/inside_deisgn"
+        android:layout_width="match_parent"
+        android:layout_height="60dp" />
+    <EditText
+        android:layout_marginTop="15dp"
+        android:paddingLeft="10dp"
+        android:hint="Product Price...."
+        android:id="@+id/product_price"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/inside_deisgn"
+        android:layout_width="match_parent"
+        android:layout_height="60dp" />
+
+    <Button
+        android:textSize="20dp"
+        android:fontFamily="@font/mlight"
+        android:textColor="#ffffff"
+        android:layout_marginTop="15dp"
+        android:paddingLeft="10dp"
+        android:text="Add Product"
+        android:id="@+id/add_product_button"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/button"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"/>
+
+</LinearLayout>

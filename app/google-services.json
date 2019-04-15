@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "385935734718",
+    "firebase_url": "https://atwoz-93f71.firebaseio.com",
+    "project_id": "atwoz-93f71",
+    "storage_bucket": "atwoz-93f71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385935734718:android:5810d10b5c2ee1ea",
+        "android_client_info": {
+          "package_name": "com.example.user.atwoz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385935734718-chcdvmt78alo7i0b17pbqss7qkmetemb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.atwoz",
+            "certificate_hash": "4106edaa89d6c9c33af285d458bb7a10fb290fa9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1tl6xaRiM13tD3gqRa-xWHJzaaNZPnyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385935734718-vpdp8k8av8a0hu8ad97k1n265vilhqv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

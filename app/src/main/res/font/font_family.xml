@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="700"
+        android:font="@font/commanders"/>
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="700"
+        android:font="@font/medium"/>
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="700"
+        android:font="@font/mightybrushdemo"/>
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="700"
+        android:font="@font/mlight"/>
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="700"
+        android:font="@font/piqueintereste"/>
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="700"
+        android:font="@font/vidaloka"/>
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="700"
+        android:font="@font/whaleitried"/>
+
+</font-family>
